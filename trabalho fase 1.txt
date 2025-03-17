@@ -1,0 +1,130 @@
+<html>
+<head>
+<title>mercado 7</title>
+</head>
+<body>
+    <header>
+        <h1> Bem-vindo ao mercado 7</h1>
+    </header>
+    <nav>
+        <ul>
+        <li><a href= "#pagina-inicial">Pagina inicial</a></li> 
+        <li><a href= "#produtos">Produtos</a></li>
+        <li><a href= "#servicos">Serviços</a></li>
+        <li><a href="#contato">Contato</a></li>
+        
+        </ul>
+    </nav>
+<section id = "pagina-inicial">
+    <h2>
+    Pagina inicial
+    </h2>
+    <p> bem vindo ao nosso site, somos uma empresa de varejo pronta para suas necessidades </p>
+</section>
+
+
+<section id="produtos">
+    <h2>
+    Produtos
+    </h2>
+    <h3>
+    Laticínios
+    </h3>
+    <ul>
+    <li>
+    <h4> 
+    Leite
+    </h4> 
+     <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 6,00</p>
+    </li>
+    
+    <li>
+    <h4>
+    Queijo
+    </h4> 
+    <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 4,50</p>
+    </li>
+    </ul>
+    
+    <h3>
+    Carnes
+    </h3>
+    <ul>
+    <li>
+    <h4>
+    Frango
+    </h4>
+     <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 12,50/kg</p>
+    </li>
+    <li>
+    <h4>
+    Bacon
+    </h4>
+    <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 10,99</p>
+    </li>
+    </ul>
+    
+    <h3>
+    Bebidas
+    </h3>
+    <ul>
+    <li> 
+   
+    <h4>
+    Coca-cola
+    </h4>
+    <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 3,99</p>
+    </li> 
+    
+    <li>
+    <h4>
+    Suco natural
+    </h4>
+     <img src="https://via.placeholder.com/300" alt="Imagem Exemplo"> 
+    <p> Preço: R$ 3,99</p>
+    </li>
+    </ul>
+</section>
+
+<section id = "servicos">
+    
+    <h2>
+    Serviços
+    </h2>
+    
+    <ul>
+    <li>
+    <h3>
+    Entregas
+    </h3>
+    <p> Por uma taxa de entrega apenas R$ 2,50 entregamos em qualquer lugar na cidade .Entre em contato pelo numero abaixo em telefone ou WhatsApp.</p>
+    </li>
+    <li>
+    <h3>
+    Máquinas de vendas
+    </h3>
+    <p> Você pode instalar uma máquina de vendas de sua empresa em nossa loja , por uma taxa negociavel .Entre em contato.</p>
+    
+    
+    </li>
+    </ul>
+</section>
+
+<section id = "contato">
+    <h2> Contato</h2>
+    <p><strong>Telefone:</strong> (51) 1234-5678</p> 
+    <p><strong>Email:</strong> <a href="mailto:mercado7@gmail.com">mercado7@gmail.com</a></p>
+</section>
+
+<footer>
+        <p>&copy; 2025 Mercado 7 - Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
+
